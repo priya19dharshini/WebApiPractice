@@ -1,0 +1,11 @@
+@@ -0,0 +1,10 @@
+@"
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+"@ | Set-Content .gitignore
